@@ -2,7 +2,7 @@
 
 **Bruno Saraiva Maciel**
 Economista & Analista de Dados
-* 💼 [LinkedIn]((https://www.linkedin.com/in/bruno-s-maciel/))
+* 💼 [LinkedIn](https://www.linkedin.com/in/bruno-s-maciel/)
 
 # 📊 Análise de Performance e Logística - Olist E-commerce
 
