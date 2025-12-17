@@ -51,5 +51,3 @@ Análise de correlação (Scatter Plot) entre **Frete Médio** e **Prazo de Entr
 
 ---
 *Projeto desenvolvido para portfólio de Análise de Dados e Economia.*
-
-## 👤 Bruno Saraiva Maciel
