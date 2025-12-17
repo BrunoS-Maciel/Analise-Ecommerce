@@ -1,3 +1,9 @@
+## 👤 Autor
+
+**Bruno Saraiva Maciel**
+Economista & Analista de Dados
+* 💼 [LinkedIn]((https://www.linkedin.com/in/bruno-s-maciel/))
+
 # 📊 Análise de Performance e Logística - Olist E-commerce
 
 ## 📝 Sobre o Projeto
@@ -45,3 +51,5 @@ Análise de correlação (Scatter Plot) entre **Frete Médio** e **Prazo de Entr
 
 ---
 *Projeto desenvolvido para portfólio de Análise de Dados e Economia.*
+
+## 👤 Bruno Saraiva Maciel
