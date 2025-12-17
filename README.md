@@ -1,6 +1,6 @@
 ## 👤 Autor
 
-**Bruno Saraiva Maciel**
+**Bruno Saraiva Maciel** -
 Economista & Analista de Dados
 * 💼 [LinkedIn](https://www.linkedin.com/in/bruno-s-maciel/)
 
