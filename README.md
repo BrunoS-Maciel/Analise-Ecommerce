@@ -23,6 +23,15 @@ O projeto foi dividido em etapas técnicas, organizadas nas pastas deste reposit
 
 ---
 
+## 🗄️ Estrutura do Projeto (SQL)
+
+O core do projeto reside na manipulação eficiente dos dados. A pasta `SQL` contém dois scripts principais:
+
+* **`etl_vendas_logistica.sql`**: Script de **ETL (Extract, Transform, Load)**. Utiliza *Common Table Expressions (CTEs)* para consolidar pedidos, itens, pagamentos e avaliações em uma visão analítica única, tratando nulos e criando regras de negócio (ex: cálculo de lead time e status de entrega).
+* **`queries_analise_olist.sql`**: Consultas exploratórias utilizadas para validação dos dados e extração de insights rápidos diretamente do banco de dados.
+
+---
+
 ## 📈 Galeria de Análises (Dashboard)
 
 ### 1. Visão Geral (Overview)
